@@ -36,7 +36,7 @@ The calculated t-value did not exceed the critical value needed to fall into the
 The hypothesis was not supported, despite a large difference in the sample mean between groups. The calculated t-statistic did not fall within 
 the rejection region at α = 0.05, so we failed to reject the null hypothesis. Since the p-value is also much higher than α and far from the 
 rejection region, it even suggests that not only there is no real difference to support HA, but that evidence that does support
-it is likely random. The wide confidence interval also reflects high variability within the data (-17,086, 6,070).
+it is likely random. The wide confidence interval also reflects high variability within the data (-17805.935, 6069.722).
 
 ## Tools Used
 Python (Pandas), R
